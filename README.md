@@ -1,8 +1,4 @@
-
-
-
-
-
+بندق
 <!DOCTYPE html>
 <html>
 <head>
